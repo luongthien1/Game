@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1629107517 source:e:\my life\code\c++\dinojump\console.cpp
+	"Console.h"
+
+1630078648 e:\my life\code\c++\dinojump\console.h
+	<iostream>
+	<conio.h>
+	<Windows.h>
+
+1631181587 source:e:\my life\code\c++\dinojump\game.cpp
+	"Game.h"
+
+1630078648 e:\my life\code\c++\dinojump\game.h
+	"Console.h"
+	<time.h>
+
+1630029392 source:e:\my life\code\c++\dinojump\main.cpp
+	"main.h"
+
+1629950754 e:\my life\code\c++\dinojump\main.h
+	"Console.h"
+	"Game.h"
+

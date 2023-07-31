@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1629552745 source:e:\my life\code\c++\main\main.cpp
+	"main.h"
+
+1629107518 e:\my life\code\c++\main\main.h
+	"GAME.h"
+	"Console.h"
+
+1629107517 e:\my life\code\c++\main\console.h
+	<iostream>
+	<conio.h>
+	<Windows.h>
+
+1629107517 source:e:\my life\code\c++\main\console.cpp
+	"Console.h"
+
+1629778520 e:\my life\code\c++\main\game.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	"Console.h"
+
+1630114363 source:e:\my life\code\c++\main\game.cpp
+	"GAME.h"
+
+1629107517 source:e:\my life\code\c++\jumpcave\console.cpp
+	"Console.h"
+
+1629107517 e:\my life\code\c++\jumpcave\console.h
+	<iostream>
+	<conio.h>
+	<Windows.h>
+
+1630114363 source:e:\my life\code\c++\jumpcave\game.cpp
+	"GAME.h"
+
+1629778520 e:\my life\code\c++\jumpcave\game.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	"Console.h"
+
+1648712512 source:e:\my life\code\c++\jumpcave\main.cpp
+	"main.h"
+
+1629107518 e:\my life\code\c++\jumpcave\main.h
+	"GAME.h"
+	"Console.h"
+

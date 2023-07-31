@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1627895693 source:e:\my life\code\c++\main\main.cpp
+	"main.h"
+
+1628045767 e:\my life\code\c++\main\console.h
+	<iostream>
+	<conio.h>
+	<Windows.h>
+
+1626402332 source:e:\my life\code\c++\main\game.cpp
+	"Game.h"
+
+1626422712 e:\my life\code\c++\main\game.h
+	<stdio.h>
+	<string>
+	"Console.h"
+
+1627100587 source:e:\my life\code\c++\main\console.cpp
+	"Console.h"
+
+1627878033 e:\my life\code\c++\main\main.h
+	"FileFun.h"
+
+1628053223 source:e:\my life\code\c++\main\filefun.cpp
+	"FileFun.h"
+
+1628045771 e:\my life\code\c++\main\filefun.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<Windows.h>
+	"Console.h"
+
+1627100587 source:e:\my life\code\c++\tetris\console.cpp
+	"Console.h"
+
+1628045767 e:\my life\code\c++\tetris\console.h
+	<iostream>
+	<conio.h>
+	<Windows.h>
+
+1628053959 source:e:\my life\code\c++\tetris\filefun.cpp
+	"FileFun.h"
+
+1628045771 e:\my life\code\c++\tetris\filefun.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<Windows.h>
+	"Console.h"
+
+1627895693 source:e:\my life\code\c++\tetris\main.cpp
+	"main.h"
+
+1627878033 e:\my life\code\c++\tetris\main.h
+	"FileFun.h"
+
